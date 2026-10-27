@@ -4,7 +4,7 @@ An interactive Excel dashboard built with PivotTables, PivotCharts, slicers
 and GETPIVOTDATA KPI cards to help management decide on pricing,
 discounting and seasonal planning.
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard_Pic3.jpeg)
 
 ## Business Questions
 - Which regions and categories drive profit, and which only drive revenue?
